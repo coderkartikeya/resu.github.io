@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.flex{
+    display:flex;
+}
+
+.side-bar{
+    background-color: #362b2e;
+    position: fixed;
+    height: 100vh;
+    width: 20vw;
+}
+
+.container{
+    padding-left: 20vw;
+
+}
+
+.header-main{
+    gap: 50px;
+    justify-content: center;
+}
+
+.central-name-block-left{
+    justify-content: center;
+    width: 40vw;
+    
+    
+}
+
+.pic-block-right{
+    height: 50vw;
+}
+
+#imge{
+    width: 600px;
+}
+
